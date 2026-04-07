@@ -1,0 +1,9 @@
+﻿# Java build outputs
+*.class
+
+# Logs
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
